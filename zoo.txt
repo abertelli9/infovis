@@ -1,0 +1,1 @@
+visual encodings Parallel coordinates Adjacency diagrams Enclosure diagrams adjacency matrix
